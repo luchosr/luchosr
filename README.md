@@ -10,4 +10,4 @@ I'm Luciano, a modern Web enthusiast and resilient programmer, currently based i
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,ts,react,nextjs,redux,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind)](https://skillicons.dev)
