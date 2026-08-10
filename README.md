@@ -56,13 +56,8 @@
 ---
 
 
-### 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-sandy-iota-vex9n6vumo.vercel.app/api?username=luchosr&theme=blueberry&show_icons=true&hide_border=true&count_private=true" alt="luchosr's GitHub stats" />
-  <img height="165" src="https://github-readme-stats-sandy-iota-vex9n6vumo.vercel.app/api/top-langs/?username=luchosr&theme=blueberry&hide_border=true&layout=compact&langs_count=8" alt="luchosr's top languages" />
+ 
 </p>
-
----
-
-<p align="center"><i>Modern web enthusiast &amp; resilient programmer — always shipping, always learning.</i></p>
